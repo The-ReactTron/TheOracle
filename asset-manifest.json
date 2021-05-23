@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TheOracle/static/css/main.43108e1b.chunk.css",
+    "main.js": "/TheOracle/static/js/main.50497e5b.chunk.js",
+    "main.js.map": "/TheOracle/static/js/main.50497e5b.chunk.js.map",
+    "runtime-main.js": "/TheOracle/static/js/runtime-main.44cd4de1.js",
+    "runtime-main.js.map": "/TheOracle/static/js/runtime-main.44cd4de1.js.map",
+    "static/js/2.34b87737.chunk.js": "/TheOracle/static/js/2.34b87737.chunk.js",
+    "static/js/2.34b87737.chunk.js.map": "/TheOracle/static/js/2.34b87737.chunk.js.map",
+    "index.html": "/TheOracle/index.html",
+    "static/css/main.43108e1b.chunk.css.map": "/TheOracle/static/css/main.43108e1b.chunk.css.map",
+    "static/js/2.34b87737.chunk.js.LICENSE.txt": "/TheOracle/static/js/2.34b87737.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44cd4de1.js",
+    "static/js/2.34b87737.chunk.js",
+    "static/css/main.43108e1b.chunk.css",
+    "static/js/main.50497e5b.chunk.js"
+  ]
+}
