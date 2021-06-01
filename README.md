@@ -1,5 +1,5 @@
 #          The Oracle
-## A Company Naming Website
+## A Startup Naming Website
 
 This is a ReactJs based application which suggests name for a company/Startups based on entered space separated keywords.
 
